@@ -1,14 +1,14 @@
 # Retrieval Augmented Generation (RAG)
 
-## Architecture Diagram
+## Flow Diagram
 
-![Architecture diagram](../images/2_0.png)
+![Flow diagram: RAG](../images/2_0.png)
 
 ## Notebook
 
 - [Jupyter Notebook](../code/Lesson_2_Retrieval_Augmented_Generation.ipynb)
 - Change in my notebook compared to the one shared in course
-  - The course notebook prepends `write an article titled: ` to the query question which is then used for nearest neighbor search in the Pinecone database.
+  - The course notebook prepends `write an article titled:` to the query question which is then used for nearest neighbor search in the Pinecone database.
   - Whereas I have kept that phrase only for the prompt and nearest neighbor search is done only on the original query.
 
 - openai version issue:
