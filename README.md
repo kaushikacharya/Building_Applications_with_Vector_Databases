@@ -19,6 +19,7 @@ This repository contains
 |1|[Semantic Search](./notes/Lesson_1.md)|
 |2|[Retrieval Augmented Generation (RAG)](./notes/Lesson_2.md)|
 |3|[Recommender Systems](./notes/Lesson_3.md)|
+|4|[Hybrid Search](./notes/Lesson_4.md)|
 
 ## Assignments
 
@@ -27,3 +28,4 @@ This repository contains
 |1|[Semantic Search](./notes/Lesson_1.md#notebook)|Semantic Search over Quora dataset of Questions|
 |2|[Retrieval Augmented Generation](./notes/Lesson_2.md#notebook)|RAG over Wikipedia sub dataset using OpenAI api|
 |3|[Recommender Systems](./notes/Lesson_3.md#notebook)|Search over news articles/titles using OpenAI embeddings|
+|4|[Hybrid Search](./notes/Lesson_4.md#notebook)|Multimodal search using both image and descriptive text|
