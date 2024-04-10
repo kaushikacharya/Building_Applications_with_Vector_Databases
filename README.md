@@ -20,6 +20,7 @@ This repository contains
 |2|[Retrieval Augmented Generation (RAG)](./notes/Lesson_2.md)|
 |3|[Recommender Systems](./notes/Lesson_3.md)|
 |4|[Hybrid Search](./notes/Lesson_4.md)|
+|5|[Facial Similarity Search](./notes/Lesson_5.md)
 
 ## Assignments
 
@@ -29,3 +30,4 @@ This repository contains
 |2|[Retrieval Augmented Generation](./notes/Lesson_2.md#notebook)|RAG over Wikipedia sub dataset using OpenAI api|
 |3|[Recommender Systems](./notes/Lesson_3.md#notebook)|Search over news articles/titles using OpenAI embeddings|
 |4|[Hybrid Search](./notes/Lesson_4.md#notebook)|Multimodal search using both image and descriptive text|
+|5|[Facial Similarity Search](./notes/Lesson_5.md#notebook)|Facial similarity search using DeepFace library on British royal family dataset|
