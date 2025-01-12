@@ -28,3 +28,4 @@
 
 - [Jupyter Notebook](../code/Lesson_4_Hybrid_Search.ipynb)
 - [Cosine similarity vs Dot product](https://datascience.stackexchange.com/questions/744/cosine-similarity-versus-dot-product-as-distance-metrics)
+- Pre-trained models of `sentence_transformers` are [hosted on HuggingFace Model Hub](https://www.sbert.net/docs/pretrained_models.html).
